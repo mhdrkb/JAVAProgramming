@@ -34,3 +34,5 @@ http://shikkhok.com/2013/10/java-android-101-1/
 
 https://www.tutorialspoint.com/convert-list-to-array-in-java
 https://www.tutorialspoint.com/java/util/java_util_arrays.htm
+julkar niyen
+the thomson
